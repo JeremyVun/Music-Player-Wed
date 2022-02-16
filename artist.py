@@ -1,4 +1,4 @@
 class Artist:
-  def __init__(self):
-    self.name = "Santa Claus"
-    self.age = 900
+  def __init__(self, name, age):
+    self.name = name
+    self.age = age
